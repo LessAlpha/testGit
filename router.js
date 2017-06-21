@@ -7,5 +7,5 @@ function r1(){
     console.log('r1');
 
     console.log('r2');
-    alert('a');
+    alert('a - Creating a new branch is quick.');
 }
