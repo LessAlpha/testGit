@@ -8,4 +8,6 @@ function r1(){
 
     console.log('r2');
     alert('a');
+
+    console.log('onMac');
 }
